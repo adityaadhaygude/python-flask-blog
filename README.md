@@ -36,4 +36,6 @@ This web app uses a number of techs:
 
 * [Flask] - Backend for web app!
 * [vscode Editor] - awesome text editor
+* [Jinja2] - dynamic template
+* [SQLalchemy] - sql database for posts and contact
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
